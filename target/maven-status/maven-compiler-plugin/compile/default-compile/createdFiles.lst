@@ -1,0 +1,6 @@
+com\upiiz\superheroes\controllers\HeroeController.class
+com\upiiz\superheroes\SuperheroesApplication.class
+com\upiiz\superheroes\repositories\HeroeRepository.class
+com\upiiz\superheroes\services\HeroeService.class
+com\upiiz\superheroes\entities\CustomResponse.class
+com\upiiz\superheroes\entities\HeroeEntity.class
