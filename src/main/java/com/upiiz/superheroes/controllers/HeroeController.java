@@ -15,6 +15,7 @@ import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 
 @RestController
 @RequestMapping("/api/v1/heroes")
+@CrossOrigin(origins = "http://localhost:4200")
 public class HeroeController {
     @Autowired
     private HeroeService heroeService;
